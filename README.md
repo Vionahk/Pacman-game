@@ -1,2 +1,3 @@
 # Pacman-game
-Creating a Pacman game in C. 
+explain the code and hwo it works and what are th ebig topics about it 
+
